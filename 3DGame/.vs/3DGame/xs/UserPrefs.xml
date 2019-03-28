@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{FA9178D6-5EB8-034D-FBFF-A344821AB08F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Models/Script/Rotator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Models/Script/PlayerController.cs">
     <Files>
       <File FileName="Assets/Scenes/World/UIManager.cs" Line="35" Column="2" />
       <File FileName="Assets/Models/Script/PlayerController.cs" Line="24" Column="2" />
