@@ -1,9 +1,9 @@
 3D game with Mapbox SDK
 
 ### Screenshot of Unity Panels
-![alt text][img_url]
-[img_url]: https://github.com/wyy6434/wyy6434-web/3DGame/Screen_Shot.png
-<div align=center><img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/>
+![alt text][logo]
+[logo]: https://github.com/wyy6434/wyy6434-web/3DGame/Screen_Shot.png
+<div align=center><logo width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/>
         
       
 ### Screenshot of C# Script
