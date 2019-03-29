@@ -4,9 +4,7 @@
 ![alt text](https://github.com/wyy6434/wyy6434-web/blob/master/3DGame/Screen_Shot.png)
       
 ### Screenshot of C# Script
-![alt text][logo]
-
-[logo]: https://github.com/wyy6434/wyy6434-web/3DGame/screen_shot_2.png
+![alt text](https://github.com/wyy6434/wyy6434-web/blob/master/3DGame/screen_shot_2.png)
       
 
 
