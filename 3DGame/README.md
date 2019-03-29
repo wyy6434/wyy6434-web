@@ -3,8 +3,9 @@
 ### Screenshot of Unity Panels
 <div align=center><img width="500" height="500" src="https://github.com/wyy6434/wyy6434-web/blob/master/wyy6434-web/3DGame/Screen_Shot.png">
 
-![alt text][logo]
-[logo]: https://github.com/wyy6434/wyy6434-web/blob/master/wyy6434-web/3DGame/Screen_Shot.png
+![alt text][img]
+
+[img]: https://github.com/wyy6434/wyy6434-web/blob/master/wyy6434-web/3DGame/Screen_Shot.png
       
 ### Screenshot of C# Script
 ![alt text][logo]
