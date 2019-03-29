@@ -3,12 +3,13 @@
 ### Screenshot of Unity Panels
 ![alt text][logo]
 
-[logo]: https://github.com/wyy6434/wyy6434-web/blob/master/wyy6434-web/3DGame/Screen_Shot.png
+[logo]: https://github.com/wyy6434/wyy6434-web/3DGame/Screen_Shot.png
       
 ### Screenshot of C# Script
 ![alt text][logo]
 
-[logo]: https://github.com/wyy6434/wyy6434-web/blob/master/interactive_map/map.png 
+[logo]: https://github.com/wyy6434/wyy6434-web/3DGame/screen_shot_2.png
+      
 
 
 ### Reflective Analysis      
